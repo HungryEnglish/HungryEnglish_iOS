@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.5.0)
+  - EDStarRating (1.1)
+  - FloatRatingView (2.0)
+  - IQKeyboardManagerSwift (4.0.13)
+  - Kingfisher (3.10.2)
+  - MaterialControls (1.2.2)
+  - NVActivityIndicatorView (3.6.1)
+  - ReachabilitySwift (3)
+  - SwiftyJSON (3.1.4)
+  - Toaster (2.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - EDStarRating
+  - FloatRatingView
+  - IQKeyboardManagerSwift (= 4.0.13)
+  - Kingfisher
+  - MaterialControls
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SwiftyJSON
+  - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  FloatRatingView: 857ab8f10040d06a42fc979f486c8f9fecd2f2e5
+  IQKeyboardManagerSwift: fb399c4cddcd8d9bbcd2d0c7c81ed290b61c088e
+  Kingfisher: 7297492bf8cec9b2e2dee3519f2219948580d98e
+  MaterialControls: 1c6b29e78d3a13d8dd6a67ed31b6d26eb5de8f72
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Toaster: f13031c636ef065281bc11857be9a16c7659e04f
+
+PODFILE CHECKSUM: 61abb46c2868300d6235ba7f95eb7613ebc639a9
+
+COCOAPODS: 1.3.1
